@@ -6,8 +6,8 @@ int main()
 {
     int a=1,b=1;
     float c=1,d=1;
-    //scanf("%d %d",&a,&b);
-    //scanf("%f %f",&c ,&d);
+    scanf("%d %d",&a,&b);
+    scanf("%f %f",&c ,&d);
     int int_sum = a+b;
     int int_diff = a-b;
     float float_sum = c+d;
